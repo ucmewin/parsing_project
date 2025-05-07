@@ -1,0 +1,2 @@
+[console_scripts]
+parse-invoices = parsing.main:main

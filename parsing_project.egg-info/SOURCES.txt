@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+parsing/__init__.py
+parsing/config.py
+parsing/file_ops.py
+parsing/main.py
+parsing/parser.py
+parsing/utils.py
+parsing_project.egg-info/PKG-INFO
+parsing_project.egg-info/SOURCES.txt
+parsing_project.egg-info/dependency_links.txt
+parsing_project.egg-info/entry_points.txt
+parsing_project.egg-info/requires.txt
+parsing_project.egg-info/top_level.txt
