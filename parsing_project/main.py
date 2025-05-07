@@ -4,8 +4,8 @@ import argparse
 import os
 from pathlib import Path
 
-from parsing.parser import extract_invoices
-from parsing.file_ops import (
+from parsing_project.parser import extract_invoices
+from parsing_project.file_ops import (
     read_text_file,
     save_json,
     save_csv_summary,
@@ -13,7 +13,7 @@ from parsing.file_ops import (
     has_been_processed,
     record_processed,
 )
-from parsing.utils import (
+from parsing_project.utils import (
     format_date,
     sanitize_filename,
     setup_logging,

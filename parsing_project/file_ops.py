@@ -7,7 +7,7 @@ import shutil
 import hashlib
 from pathlib import Path
 
-from parsing.utils import format_date, sanitize_filename, log
+from parsing_project.utils import format_date, sanitize_filename, log
 
 
 def read_text_file(file_path):

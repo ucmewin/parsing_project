@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "parsing_project"
-version = "0.1.0"
+version = "0.1.1"
 description = "Invoice parsing tool for daily sales register exports"
 authors = [
     { name="Kyle Allen", email="kyle@levocraft.com" }
