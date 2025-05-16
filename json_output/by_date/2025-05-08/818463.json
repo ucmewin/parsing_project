@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818463",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JV",
+  "pick_ticket": "759269",
+  "customer_code": "473",
+  "customer_name": "THARCO I",
+  "totals": {
+    "expected_subtotal": 165.0,
+    "cost": 129.46,
+    "gm_percent": "21.5%",
+    "tax": 9.9,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 174.9,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

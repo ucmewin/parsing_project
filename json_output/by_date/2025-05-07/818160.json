@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818160",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JS",
+  "pick_ticket": "758688",
+  "customer_code": "1711",
+  "customer_name": "THE POOL",
+  "totals": {
+    "expected_subtotal": 756.0,
+    "cost": 548.1,
+    "gm_percent": "27.5%",
+    "tax": 45.36,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 801.36,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

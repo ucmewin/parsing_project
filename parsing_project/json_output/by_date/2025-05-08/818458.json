@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818458",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JV",
+  "pick_ticket": "759259",
+  "customer_code": "1653",
+  "customer_name": "VARCO MA",
+  "totals": {
+    "expected_subtotal": 475.0,
+    "cost": 339.47,
+    "gm_percent": "28.5%",
+    "tax": 28.5,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 503.5,
+    "calculated_subtotal": 475.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "DCS379P1",
+      "Description": "20V MIDBAND SAW KIT",
+      "units": 1.0,
+      "UM": "EA",
+      "PRICE": 475.0,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 339.468,
+      "COST_UM": "EA",
+      "extension": 475.0,
+      "gm%": "28.5",
+      "CLS": "830",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": "",
+      "SW": "01"
+    }
+  ]
+}

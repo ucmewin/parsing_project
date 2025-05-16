@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818061",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "RO",
+  "pick_ticket": "758960",
+  "customer_code": "59",
+  "customer_name": "EV-AIR-T",
+  "totals": {
+    "expected_subtotal": 39.0,
+    "cost": 16.4,
+    "gm_percent": "57.9%",
+    "tax": 2.34,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 41.34,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

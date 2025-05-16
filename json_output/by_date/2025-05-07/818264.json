@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818264",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "J2V",
+  "pick_ticket": "759047",
+  "customer_code": "683",
+  "customer_name": "SPINIELL",
+  "totals": {
+    "expected_subtotal": 626.7,
+    "cost": 484.14,
+    "gm_percent": "22.7%",
+    "tax": 37.6,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 664.3,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

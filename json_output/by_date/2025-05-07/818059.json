@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818059",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "MS",
+  "pick_ticket": "758957",
+  "customer_code": "830",
+  "customer_name": "THE DURA",
+  "totals": {
+    "expected_subtotal": 34.75,
+    "cost": 19.8,
+    "gm_percent": "43.0%",
+    "tax": 2.09,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 36.84,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

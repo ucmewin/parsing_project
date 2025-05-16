@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818498",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "HB",
+  "pick_ticket": "759327",
+  "customer_code": "1024",
+  "customer_name": "MERRITT",
+  "totals": {
+    "expected_subtotal": 209.0,
+    "cost": 184.99,
+    "gm_percent": "11.5%",
+    "tax": 12.54,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 221.54,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818014",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "J2V",
+  "pick_ticket": "758839",
+  "customer_code": "750",
+  "customer_name": "DIGGING",
+  "totals": {
+    "expected_subtotal": 215.0,
+    "cost": 188.7,
+    "gm_percent": "12.2%",
+    "tax": 12.9,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 227.9,
+    "calculated_subtotal": 215.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "PD6206",
+      "Description": "8' FIBER PODIUM LADD",
+      "units": 1.0,
+      "UM": "EA",
+      "PRICE": 215.0,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 188.7,
+      "COST_UM": "EA",
+      "extension": 215.0,
+      "gm%": "12.2",
+      "CLS": "730",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": "",
+      "SW": "01"
+    }
+  ]
+}

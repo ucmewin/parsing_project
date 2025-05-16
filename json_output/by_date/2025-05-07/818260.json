@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818260",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "759041",
+  "customer_code": "35",
+  "customer_name": "CONCRETE",
+  "totals": {
+    "expected_subtotal": 350.75,
+    "cost": 264.11,
+    "gm_percent": "24.7%",
+    "tax": 21.05,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 371.8,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

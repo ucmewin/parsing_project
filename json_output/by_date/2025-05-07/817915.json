@@ -1,0 +1,23 @@
+{
+  "invoice_number": "817915",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JA",
+  "pick_ticket": "757435",
+  "customer_code": "1757",
+  "customer_name": "L.R. WIL",
+  "totals": {
+    "expected_subtotal": 580.0,
+    "cost": 405.6,
+    "gm_percent": "30.1%",
+    "tax": 34.8,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 614.8,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

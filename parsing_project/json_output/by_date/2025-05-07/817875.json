@@ -1,0 +1,46 @@
+{
+  "invoice_number": "817875",
+  "invoice_date": "05/07/25",
+  "term_code": "8",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "HB",
+  "pick_ticket": "757184",
+  "customer_code": "200",
+  "customer_name": "CASH SAL",
+  "totals": {
+    "expected_subtotal": 142.0,
+    "cost": 105.78,
+    "gm_percent": "25.5%",
+    "tax": 8.52,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 150.52,
+    "calculated_subtotal": 142.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 5,
+      "ITEM": "02340",
+      "Description": "VALVE & CURB KEY",
+      "units": 1.0,
+      "UM": "EA",
+      "PRICE": 142.0,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 105.78,
+      "COST_UM": "EA",
+      "extension": 142.0,
+      "gm%": "25.5",
+      "CLS": "120",
+      "T": "Y",
+      "M": "N",
+      "I": "T",
+      "R": "",
+      "GL": "000",
+      "COMM%": ".0",
+      "SW": "01"
+    }
+  ]
+}

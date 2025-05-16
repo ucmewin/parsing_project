@@ -1,0 +1,23 @@
+{
+  "invoice_number": "817908",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "J2V",
+  "pick_ticket": "756664",
+  "customer_code": "88",
+  "customer_name": "HARRIS M",
+  "totals": {
+    "expected_subtotal": 60.99,
+    "cost": 41.35,
+    "gm_percent": "32.2%",
+    "tax": 3.66,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 64.65,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

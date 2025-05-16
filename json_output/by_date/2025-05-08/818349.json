@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818349",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "J2V",
+  "pick_ticket": "754226",
+  "customer_code": "836",
+  "customer_name": "HATZEL &",
+  "totals": {
+    "expected_subtotal": 287.97,
+    "cost": 212.1,
+    "gm_percent": "26.3%",
+    "tax": 17.28,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 305.25,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

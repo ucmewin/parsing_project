@@ -1,0 +1,23 @@
+{
+  "invoice_number": "817929",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JA",
+  "pick_ticket": "758096",
+  "customer_code": "1273NJ2",
+  "customer_name": "STRUCTUR",
+  "totals": {
+    "expected_subtotal": 457.5,
+    "cost": 342.73,
+    "gm_percent": "25.1%",
+    "tax": 0.0,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 457.5,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818399",
+  "invoice_date": "05/09/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JV",
+  "pick_ticket": "759121",
+  "customer_code": "461",
+  "customer_name": "HELIX EL",
+  "totals": {
+    "expected_subtotal": 1306.14,
+    "cost": 1047.3,
+    "gm_percent": "19.8%",
+    "tax": 78.37,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 1384.51,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818485",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JS",
+  "pick_ticket": "759307",
+  "customer_code": "870",
+  "customer_name": "YU SUPPL",
+  "totals": {
+    "expected_subtotal": 400.6,
+    "cost": 242.41,
+    "gm_percent": "39.5%",
+    "tax": 24.04,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 424.64,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

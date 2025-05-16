@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818212",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JA",
+  "pick_ticket": "758963",
+  "customer_code": "1734CH",
+  "customer_name": "PULLMAN",
+  "totals": {
+    "expected_subtotal": 1985.0,
+    "cost": 1606.14,
+    "gm_percent": "19.1%",
+    "tax": 0.0,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 1985.0,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

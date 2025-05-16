@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818174",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "758826",
+  "customer_code": "1764W",
+  "customer_name": "POWER SO",
+  "totals": {
+    "expected_subtotal": 8.95,
+    "cost": 5.93,
+    "gm_percent": "33.7%",
+    "tax": 0.54,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 9.49,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

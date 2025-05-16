@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818397",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "759094",
+  "customer_code": "225",
+  "customer_name": "JCM ASSO",
+  "totals": {
+    "expected_subtotal": 115.0,
+    "cost": 86.2,
+    "gm_percent": "25.0%",
+    "tax": 6.9,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 121.9,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

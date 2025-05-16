@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818508",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JV",
+  "pick_ticket": "759357",
+  "customer_code": "400",
+  "customer_name": "CASTLE S",
+  "totals": {
+    "expected_subtotal": 299.0,
+    "cost": 252.7,
+    "gm_percent": "15.5%",
+    "tax": 17.94,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 316.94,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

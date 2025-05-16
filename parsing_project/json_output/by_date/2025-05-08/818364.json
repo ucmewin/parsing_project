@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818364",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "758219",
+  "customer_code": "1766",
+  "customer_name": "W.E. BOW",
+  "totals": {
+    "expected_subtotal": 359.0,
+    "cost": 322.26,
+    "gm_percent": "10.2%",
+    "tax": 21.54,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 380.54,
+    "calculated_subtotal": 359.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 4,
+      "ITEM": "DWH303DH",
+      "Description": "DUST EXTRACTOR UNIT",
+      "units": 2.0,
+      "UM": "EA",
+      "PRICE": 179.5,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 161.13,
+      "COST_UM": "EA",
+      "extension": 359.0,
+      "gm%": "10.2",
+      "CLS": "832",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": "",
+      "SW": "01"
+    }
+  ]
+}

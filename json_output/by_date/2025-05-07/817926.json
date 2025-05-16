@@ -1,0 +1,23 @@
+{
+  "invoice_number": "817926",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "SER",
+  "pick_ticket": "758066",
+  "customer_code": "314",
+  "customer_name": "CHESAPEA",
+  "totals": {
+    "expected_subtotal": 922.45,
+    "cost": 712.25,
+    "gm_percent": "22.8%",
+    "tax": 55.35,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 977.8,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

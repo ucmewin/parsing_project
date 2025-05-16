@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818055",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "HB",
+  "pick_ticket": "758946",
+  "customer_code": "240",
+  "customer_name": "VIMCO, I",
+  "totals": {
+    "expected_subtotal": -25.8,
+    "cost": -25.8,
+    "gm_percent": "0.0%",
+    "tax": 0.0,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": -25.8,
+    "calculated_subtotal": -25.8,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "CREDIT",
+      "Description": "CREDIT FOR WHITE SPR",
+      "units": -1.0,
+      "UM": "EA",
+      "PRICE": 25.8,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 25.8,
+      "COST_UM": "EA",
+      "extension": -25.8,
+      "gm%": "0.0",
+      "CLS": "750",
+      "T": "Y",
+      "M": "N",
+      "I": "T",
+      "R": "R",
+      "GL": "000",
+      "COMM%": ".0",
+      "SW": "01"
+    }
+  ]
+}

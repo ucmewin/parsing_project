@@ -1,0 +1,23 @@
+{
+  "invoice_number": "817904",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "HW",
+  "pick_ticket": "756562",
+  "customer_code": "17",
+  "customer_name": "CLARK CO",
+  "totals": {
+    "expected_subtotal": 58.99,
+    "cost": 33.84,
+    "gm_percent": "42.6%",
+    "tax": 3.54,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 62.53,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

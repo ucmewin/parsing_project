@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818381",
+  "invoice_date": "05/09/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "HW",
+  "pick_ticket": "758828",
+  "customer_code": "17",
+  "customer_name": "CLARK CO",
+  "totals": {
+    "expected_subtotal": 325.0,
+    "cost": 271.2,
+    "gm_percent": "16.6%",
+    "tax": 19.5,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 344.5,
+    "calculated_subtotal": 325.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "DCB609-2",
+      "Description": "60V FLEXVOLT BATTERY",
+      "units": 1.0,
+      "UM": "PK",
+      "PRICE": 325.0,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "PK",
+      "COST": 271.2,
+      "COST_UM": "PK",
+      "extension": 325.0,
+      "gm%": "16.6",
+      "CLS": "831",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": ".0",
+      "SW": "01"
+    }
+  ]
+}

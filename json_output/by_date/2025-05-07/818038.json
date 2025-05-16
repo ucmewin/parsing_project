@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818038",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JS",
+  "pick_ticket": "758886",
+  "customer_code": "1098",
+  "customer_name": "CONCRETE",
+  "totals": {
+    "expected_subtotal": 2230.36,
+    "cost": 1603.37,
+    "gm_percent": "28.1%",
+    "tax": 133.82,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 2364.18,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

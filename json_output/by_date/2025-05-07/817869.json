@@ -1,0 +1,23 @@
+{
+  "invoice_number": "817869",
+  "invoice_date": "05/07/25",
+  "term_code": "8",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JS",
+  "pick_ticket": "757997",
+  "customer_code": "797",
+  "customer_name": "RAZE WOR",
+  "totals": {
+    "expected_subtotal": 399.0,
+    "cost": 241.08,
+    "gm_percent": "39.6%",
+    "tax": 23.94,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 422.94,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

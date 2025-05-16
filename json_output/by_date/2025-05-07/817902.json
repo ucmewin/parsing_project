@@ -1,0 +1,23 @@
+{
+  "invoice_number": "817902",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "J2V",
+  "pick_ticket": "756517",
+  "customer_code": "593",
+  "customer_name": "BERLIN S",
+  "totals": {
+    "expected_subtotal": 999.0,
+    "cost": 900.0,
+    "gm_percent": "9.9%",
+    "tax": 59.94,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 1058.94,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

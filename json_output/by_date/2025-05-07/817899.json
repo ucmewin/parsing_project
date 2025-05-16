@@ -1,0 +1,23 @@
+{
+  "invoice_number": "817899",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JA",
+  "pick_ticket": "756430",
+  "customer_code": "889",
+  "customer_name": "DIRECT L",
+  "totals": {
+    "expected_subtotal": 207.0,
+    "cost": 168.0,
+    "gm_percent": "18.8%",
+    "tax": 0.0,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 207.0,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

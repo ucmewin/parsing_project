@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818100",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "SER",
+  "pick_ticket": "752179",
+  "customer_code": "649",
+  "customer_name": "MCGUIRE",
+  "totals": {
+    "expected_subtotal": 654.44,
+    "cost": 384.93,
+    "gm_percent": "41.2%",
+    "tax": 39.27,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 693.71,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

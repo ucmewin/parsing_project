@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818007",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "J2V",
+  "pick_ticket": "758819",
+  "customer_code": "570",
+  "customer_name": "SMITH IN",
+  "totals": {
+    "expected_subtotal": 79.8,
+    "cost": 60.71,
+    "gm_percent": "23.9%",
+    "tax": 0.0,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 79.8,
+    "calculated_subtotal": 79.8,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "01-506",
+      "Description": "1GAL HANDCLEANER-ORA",
+      "units": 4.0,
+      "UM": "EA",
+      "PRICE": 19.95,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 15.177,
+      "COST_UM": "EA",
+      "extension": 79.8,
+      "gm%": "23.9",
+      "CLS": "750",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": ".0",
+      "SW": "01"
+    }
+  ]
+}

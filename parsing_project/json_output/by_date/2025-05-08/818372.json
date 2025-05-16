@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818372",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JS",
+  "pick_ticket": "758490",
+  "customer_code": "515",
+  "customer_name": "ROSENDIN",
+  "totals": {
+    "expected_subtotal": 1078.0,
+    "cost": 829.12,
+    "gm_percent": "23.1%",
+    "tax": 0.0,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 1078.0,
+    "calculated_subtotal": 1078.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "PFM2610012",
+      "Description": "DEWALT 1/2 WOOD KNOC",
+      "units": 2.0,
+      "UM": "C",
+      "PRICE": 539.0,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "C",
+      "COST": 414.56,
+      "COST_UM": "C",
+      "extension": 1078.0,
+      "gm%": "23.1",
+      "CLS": "300",
+      "T": "Y",
+      "M": "N",
+      "I": "T",
+      "R": "",
+      "GL": "000",
+      "COMM%": ".0",
+      "SW": "01"
+    }
+  ]
+}

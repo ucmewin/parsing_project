@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818408",
+  "invoice_date": "05/09/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "759150",
+  "customer_code": "1411",
+  "customer_name": "WAGNER R",
+  "totals": {
+    "expected_subtotal": 3246.88,
+    "cost": 2458.68,
+    "gm_percent": "24.3%",
+    "tax": 194.81,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 3441.69,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818532",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JA",
+  "pick_ticket": "759437",
+  "customer_code": "1698",
+  "customer_name": "CHOICE R",
+  "totals": {
+    "expected_subtotal": 1986.5,
+    "cost": 1339.53,
+    "gm_percent": "32.6%",
+    "tax": 119.19,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 2105.69,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

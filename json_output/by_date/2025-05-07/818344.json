@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818344",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "759267",
+  "customer_code": "193",
+  "customer_name": "EAST COA",
+  "totals": {
+    "expected_subtotal": 37.45,
+    "cost": 8.71,
+    "gm_percent": "76.7%",
+    "tax": 2.25,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 39.7,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818001",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "RO",
+  "pick_ticket": "758812",
+  "customer_code": "1269",
+  "customer_name": "WILLIAM",
+  "totals": {
+    "expected_subtotal": 772.8,
+    "cost": 482.16,
+    "gm_percent": "37.6%",
+    "tax": 46.37,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 819.17,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

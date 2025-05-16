@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818095",
+  "invoice_date": "05/08/25",
+  "term_code": "8",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "HB",
+  "pick_ticket": "759185",
+  "customer_code": "200",
+  "customer_name": "CASH SAL",
+  "totals": {
+    "expected_subtotal": 478.8,
+    "cost": 339.04,
+    "gm_percent": "29.2%",
+    "tax": 28.73,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 507.53,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

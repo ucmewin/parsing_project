@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818019",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "758846",
+  "customer_code": "1096",
+  "customer_name": "CONSTELL",
+  "totals": {
+    "expected_subtotal": 431.52,
+    "cost": 356.16,
+    "gm_percent": "17.5%",
+    "tax": 25.89,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 457.41,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

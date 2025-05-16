@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818064",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "MS",
+  "pick_ticket": "758970",
+  "customer_code": "893",
+  "customer_name": "COM-BRO",
+  "totals": {
+    "expected_subtotal": 315.0,
+    "cost": 244.36,
+    "gm_percent": "22.4%",
+    "tax": 18.9,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 333.9,
+    "calculated_subtotal": 315.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "S90-100-30",
+      "Description": "CHAIN FALL HOIST 1 T",
+      "units": 1.0,
+      "UM": "EA",
+      "PRICE": 315.0,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 244.358,
+      "COST_UM": "EA",
+      "extension": 315.0,
+      "gm%": "22.4",
+      "CLS": "808",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": "",
+      "SW": "01"
+    }
+  ]
+}

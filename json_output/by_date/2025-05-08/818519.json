@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818519",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "759396",
+  "customer_code": "1422",
+  "customer_name": "POTOMAC",
+  "totals": {
+    "expected_subtotal": 335.9,
+    "cost": 220.73,
+    "gm_percent": "34.3%",
+    "tax": 20.15,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 356.05,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

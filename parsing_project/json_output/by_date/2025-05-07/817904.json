@@ -1,0 +1,46 @@
+{
+  "invoice_number": "817904",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "HW",
+  "pick_ticket": "756562",
+  "customer_code": "17",
+  "customer_name": "CLARK CO",
+  "totals": {
+    "expected_subtotal": 58.99,
+    "cost": 33.84,
+    "gm_percent": "42.6%",
+    "tax": 3.54,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 62.53,
+    "calculated_subtotal": 58.99,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 4,
+      "ITEM": "48-00-8782",
+      "Description": "25PK 6\"14TPI TORCH S",
+      "units": 1.0,
+      "UM": "PK",
+      "PRICE": 58.99,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "PK",
+      "COST": 33.84,
+      "COST_UM": "PK",
+      "extension": 58.99,
+      "gm%": "42.6",
+      "CLS": "852",
+      "T": "Y",
+      "M": "N",
+      "I": "T",
+      "R": "",
+      "GL": "000",
+      "COMM%": ".0",
+      "SW": "01"
+    }
+  ]
+}

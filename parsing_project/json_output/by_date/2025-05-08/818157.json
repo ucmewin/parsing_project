@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818157",
+  "invoice_date": "05/08/25",
+  "term_code": "11",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JV",
+  "pick_ticket": "758676",
+  "customer_code": "55",
+  "customer_name": "DYNALECT",
+  "totals": {
+    "expected_subtotal": 42.5,
+    "cost": 35.9,
+    "gm_percent": "15.5%",
+    "tax": 2.55,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 45.05,
+    "calculated_subtotal": 42.5,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 4,
+      "ITEM": "CS-28",
+      "Description": "1/4\"-82 SINGLE COUN",
+      "units": 10.0,
+      "UM": "A",
+      "PRICE": 4.25,
+      "PRICE_OVERRIDE": false,
+      "PRICE_UM": "A",
+      "COST": 3.59,
+      "COST_UM": "A",
+      "extension": 42.5,
+      "gm%": "15.5%",
+      "CLS": "00",
+      "T": "",
+      "M": "",
+      "I": "",
+      "R": "",
+      "GL": "00",
+      "COMM%": ".00",
+      "SW": "1"
+    }
+  ]
+}

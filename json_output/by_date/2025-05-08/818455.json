@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818455",
+  "invoice_date": "05/09/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "759256",
+  "customer_code": "1766VA",
+  "customer_name": "W.E. BOW",
+  "totals": {
+    "expected_subtotal": 209.7,
+    "cost": 132.77,
+    "gm_percent": "36.7%",
+    "tax": 12.58,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 222.28,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

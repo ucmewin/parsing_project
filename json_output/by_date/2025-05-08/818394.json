@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818394",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JV",
+  "pick_ticket": "759073",
+  "customer_code": "1653",
+  "customer_name": "VARCO MA",
+  "totals": {
+    "expected_subtotal": 1131.36,
+    "cost": 917.11,
+    "gm_percent": "18.9%",
+    "tax": 67.88,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 1199.24,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

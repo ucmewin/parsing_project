@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818140",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JS",
+  "pick_ticket": "758140",
+  "customer_code": "1711",
+  "customer_name": "THE POOL",
+  "totals": {
+    "expected_subtotal": 178.0,
+    "cost": 111.02,
+    "gm_percent": "37.6%",
+    "tax": 10.68,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 188.68,
+    "calculated_subtotal": 178.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "BEAM2TON",
+      "Description": "2 TON BEAM CLAMP",
+      "units": 2.0,
+      "UM": "EA",
+      "PRICE": 89.0,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 55.512,
+      "COST_UM": "EA",
+      "extension": 178.0,
+      "gm%": "37.6",
+      "CLS": "808",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": ".0",
+      "SW": "01"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818530",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "HB",
+  "pick_ticket": "759433",
+  "customer_code": "1695",
+  "customer_name": "MACE ENT",
+  "totals": {
+    "expected_subtotal": 120.0,
+    "cost": 79.6,
+    "gm_percent": "33.7%",
+    "tax": 7.2,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 127.2,
+    "calculated_subtotal": 120.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "SC50",
+      "Description": "SWEEPING COMPOUND-50",
+      "units": 8.0,
+      "UM": "EA",
+      "PRICE": 15.0,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 9.95,
+      "COST_UM": "EA",
+      "extension": 120.0,
+      "gm%": "33.7",
+      "CLS": "752",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": ".0",
+      "SW": "01"
+    }
+  ]
+}

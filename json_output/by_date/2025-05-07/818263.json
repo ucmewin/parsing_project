@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818263",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JV",
+  "pick_ticket": "759045",
+  "customer_code": "532",
+  "customer_name": "LIMBACH",
+  "totals": {
+    "expected_subtotal": 498.0,
+    "cost": 370.42,
+    "gm_percent": "25.6%",
+    "tax": 29.88,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 527.88,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

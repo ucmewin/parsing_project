@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818525",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "759404",
+  "customer_code": "193",
+  "customer_name": "EAST COA",
+  "totals": {
+    "expected_subtotal": 115.0,
+    "cost": 90.0,
+    "gm_percent": "21.7%",
+    "tax": 6.9,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 121.9,
+    "calculated_subtotal": 115.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "48-22-8429",
+      "Description": "PACKOUT XL TOOL BOX",
+      "units": 1.0,
+      "UM": "EA",
+      "PRICE": 115.0,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 90.0,
+      "COST_UM": "EA",
+      "extension": 115.0,
+      "gm%": "21.7",
+      "CLS": "852",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": "",
+      "SW": "01"
+    }
+  ]
+}

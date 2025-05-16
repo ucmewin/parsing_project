@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818151",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JA",
+  "pick_ticket": "758549",
+  "customer_code": "41",
+  "customer_name": "WORCESTE",
+  "totals": {
+    "expected_subtotal": 349.0,
+    "cost": 274.4,
+    "gm_percent": "21.4%",
+    "tax": 20.94,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 369.94,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

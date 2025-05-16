@@ -1,0 +1,23 @@
+{
+  "invoice_number": "817881",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "SER",
+  "pick_ticket": "751089",
+  "customer_code": "1711",
+  "customer_name": "THE POOL",
+  "totals": {
+    "expected_subtotal": 61.14,
+    "cost": 53.93,
+    "gm_percent": "11.8%",
+    "tax": 3.67,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 64.81,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

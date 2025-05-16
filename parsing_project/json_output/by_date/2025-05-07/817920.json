@@ -1,0 +1,46 @@
+{
+  "invoice_number": "817920",
+  "invoice_date": "05/07/25",
+  "term_code": "20",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JV",
+  "pick_ticket": "757862",
+  "customer_code": "255",
+  "customer_name": "THE SEVE",
+  "totals": {
+    "expected_subtotal": 660.0,
+    "cost": 0.0,
+    "gm_percent": "100.0%",
+    "tax": 39.6,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 699.6,
+    "calculated_subtotal": 660.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 8,
+      "ITEM": "48-11-1865-F",
+      "Description": "M18 REDLITHIUM HIGH",
+      "units": 4.0,
+      "UM": "A",
+      "PRICE": 165.0,
+      "PRICE_OVERRIDE": false,
+      "PRICE_UM": "A",
+      "COST": 0.0,
+      "COST_UM": "A",
+      "extension": 660.0,
+      "gm%": "00.0%",
+      "CLS": "56",
+      "T": "",
+      "M": "",
+      "I": "",
+      "R": "",
+      "GL": "00",
+      "COMM%": ".00",
+      "SW": "1"
+    }
+  ]
+}

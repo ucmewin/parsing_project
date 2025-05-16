@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818255",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "759036",
+  "customer_code": "1766",
+  "customer_name": "W.E. BOW",
+  "totals": {
+    "expected_subtotal": 6.75,
+    "cost": 5.37,
+    "gm_percent": "20.4%",
+    "tax": 0.41,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 7.16,
+    "calculated_subtotal": 6.75,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "DW2222B",
+      "Description": "5/16\"2-9/16\" MAG NUT",
+      "units": 3.0,
+      "UM": "EA",
+      "PRICE": 2.25,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 1.79,
+      "COST_UM": "EA",
+      "extension": 6.75,
+      "gm%": "20.4",
+      "CLS": "832",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": "",
+      "SW": "01"
+    }
+  ]
+}

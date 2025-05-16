@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818050",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "RO",
+  "pick_ticket": "758922",
+  "customer_code": "1765",
+  "customer_name": "ABM FACI",
+  "totals": {
+    "expected_subtotal": 104.94,
+    "cost": 72.36,
+    "gm_percent": "31.0%",
+    "tax": 6.3,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 111.24,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

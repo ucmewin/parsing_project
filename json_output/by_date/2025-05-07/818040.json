@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818040",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JS",
+  "pick_ticket": "758892",
+  "customer_code": "874",
+  "customer_name": "STILWELL",
+  "totals": {
+    "expected_subtotal": 1087.0,
+    "cost": 922.07,
+    "gm_percent": "15.2%",
+    "tax": 65.22,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 1152.22,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

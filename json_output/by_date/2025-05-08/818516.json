@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818516",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JV",
+  "pick_ticket": "759375",
+  "customer_code": "1015",
+  "customer_name": "L. F. JE",
+  "totals": {
+    "expected_subtotal": 469.4,
+    "cost": 320.5,
+    "gm_percent": "31.7%",
+    "tax": 28.16,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 497.56,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

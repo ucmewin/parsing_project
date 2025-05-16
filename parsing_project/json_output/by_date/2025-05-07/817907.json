@@ -1,0 +1,46 @@
+{
+  "invoice_number": "817907",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JV",
+  "pick_ticket": "756636",
+  "customer_code": "461",
+  "customer_name": "HELIX EL",
+  "totals": {
+    "expected_subtotal": 679.8,
+    "cost": 283.6,
+    "gm_percent": "58.3%",
+    "tax": 40.79,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 720.59,
+    "calculated_subtotal": 679.8,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 4,
+      "ITEM": "SRB-6",
+      "Description": "3/8\" X 8\" SDS REBAR",
+      "units": 20.0,
+      "UM": "EA",
+      "PRICE": 33.99,
+      "PRICE_OVERRIDE": false,
+      "PRICE_UM": "EA",
+      "COST": 14.18,
+      "COST_UM": "EA",
+      "extension": 679.8,
+      "gm%": "58.3",
+      "CLS": "400",
+      "T": "Y",
+      "M": "N",
+      "I": "N",
+      "R": "",
+      "GL": "000",
+      "COMM%": "",
+      "SW": "01"
+    }
+  ]
+}

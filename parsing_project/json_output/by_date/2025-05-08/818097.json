@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818097",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "RO",
+  "pick_ticket": "736382",
+  "customer_code": "1148",
+  "customer_name": "BAUSUM &",
+  "totals": {
+    "expected_subtotal": 2.67,
+    "cost": 1.41,
+    "gm_percent": "47.2%",
+    "tax": 0.16,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 2.83,
+    "calculated_subtotal": 2.67,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 4,
+      "ITEM": "043004",
+      "Description": "#10 FLAT WASHER USA",
+      "units": 1.3,
+      "UM": "C",
+      "PRICE": 2.05,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "C",
+      "COST": 1.081,
+      "COST_UM": "C",
+      "extension": 2.67,
+      "gm%": "47.2",
+      "CLS": "303",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": ".0",
+      "SW": "01"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "invoice_number": "817935",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "758290",
+  "customer_code": "1025",
+  "customer_name": "ORNDORFF",
+  "totals": {
+    "expected_subtotal": 84.24,
+    "cost": 53.04,
+    "gm_percent": "37.0%",
+    "tax": 5.05,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 89.29,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

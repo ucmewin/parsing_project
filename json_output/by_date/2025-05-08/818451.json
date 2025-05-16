@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818451",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JA",
+  "pick_ticket": "759243",
+  "customer_code": "1273MA",
+  "customer_name": "STRUCTUR",
+  "totals": {
+    "expected_subtotal": 185.25,
+    "cost": 95.42,
+    "gm_percent": "48.5%",
+    "tax": 0.0,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 185.25,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

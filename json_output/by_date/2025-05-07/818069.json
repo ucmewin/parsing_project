@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818069",
+  "invoice_date": "05/07/25",
+  "term_code": "6",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "HW",
+  "pick_ticket": "759016",
+  "customer_code": "1647",
+  "customer_name": "GREENWAL",
+  "totals": {
+    "expected_subtotal": 124.0,
+    "cost": 102.4,
+    "gm_percent": "17.4%",
+    "tax": 0.0,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 124.0,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818138",
+  "invoice_date": "05/08/25",
+  "term_code": "20",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JV",
+  "pick_ticket": "758068",
+  "customer_code": "255",
+  "customer_name": "THE SEVE",
+  "totals": {
+    "expected_subtotal": 685.0,
+    "cost": 524.39,
+    "gm_percent": "23.4%",
+    "tax": 41.1,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 726.1,
+    "calculated_subtotal": 685.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 44,
+      "ITEM": "08050",
+      "Description": "SC49-8 SOIL PIPE CUT",
+      "units": 1.0,
+      "UM": "EA",
+      "PRICE": 685.0,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 524.385,
+      "COST_UM": "EA",
+      "extension": 685.0,
+      "gm%": "23.4",
+      "CLS": "120",
+      "T": "Y",
+      "M": "N",
+      "I": "T",
+      "R": "",
+      "GL": "000",
+      "COMM%": ".0",
+      "SW": "01"
+    }
+  ]
+}

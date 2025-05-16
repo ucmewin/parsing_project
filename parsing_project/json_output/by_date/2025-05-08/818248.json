@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818248",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "759026",
+  "customer_code": "1766",
+  "customer_name": "W.E. BOW",
+  "totals": {
+    "expected_subtotal": 189.0,
+    "cost": 135.7,
+    "gm_percent": "28.2%",
+    "tax": 11.34,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 200.34,
+    "calculated_subtotal": 189.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "L7HE",
+      "Description": "24\" PLATFORM HEIGHT",
+      "units": 1.0,
+      "UM": "EA",
+      "PRICE": 189.0,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 135.698,
+      "COST_UM": "EA",
+      "extension": 189.0,
+      "gm%": "28.2",
+      "CLS": "110",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": "",
+      "SW": "01"
+    }
+  ]
+}

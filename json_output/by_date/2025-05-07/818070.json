@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818070",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JS",
+  "pick_ticket": "759018",
+  "customer_code": "1397",
+  "customer_name": "ELECTRIC",
+  "totals": {
+    "expected_subtotal": 47.9,
+    "cost": 32.43,
+    "gm_percent": "32.3%",
+    "tax": 2.87,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 50.77,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

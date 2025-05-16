@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818382",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "HW",
+  "pick_ticket": "758835",
+  "customer_code": "817",
+  "customer_name": "LAUREL G",
+  "totals": {
+    "expected_subtotal": 103.6,
+    "cost": 64.0,
+    "gm_percent": "38.2%",
+    "tax": 6.22,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 109.82,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

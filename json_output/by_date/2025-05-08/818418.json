@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818418",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JS",
+  "pick_ticket": "759169",
+  "customer_code": "80",
+  "customer_name": "VALCOURT",
+  "totals": {
+    "expected_subtotal": 1798.5,
+    "cost": 1326.94,
+    "gm_percent": "26.2%",
+    "tax": 125.9,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 1924.4,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

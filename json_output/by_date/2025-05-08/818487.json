@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818487",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "RO",
+  "pick_ticket": "759309",
+  "customer_code": "1548",
+  "customer_name": "J.E. RIC",
+  "totals": {
+    "expected_subtotal": 6036.0,
+    "cost": 5700.0,
+    "gm_percent": "5.6%",
+    "tax": 362.16,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 6398.16,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

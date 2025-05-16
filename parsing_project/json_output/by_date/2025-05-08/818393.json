@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818393",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JA",
+  "pick_ticket": "759069",
+  "customer_code": "1757",
+  "customer_name": "L.R. WIL",
+  "totals": {
+    "expected_subtotal": 148.5,
+    "cost": 101.4,
+    "gm_percent": "31.7%",
+    "tax": 8.91,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 157.41,
+    "calculated_subtotal": 148.5,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "UI-20S",
+      "Description": "GAS SAFETY CAN - 2 G",
+      "units": 3.0,
+      "UM": "EA",
+      "PRICE": 49.5,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 33.8,
+      "COST_UM": "EA",
+      "extension": 148.5,
+      "gm%": "31.7",
+      "CLS": "530",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": ".0",
+      "SW": "01"
+    }
+  ]
+}

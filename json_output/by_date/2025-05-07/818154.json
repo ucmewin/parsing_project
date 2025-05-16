@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818154",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "758582",
+  "customer_code": "314",
+  "customer_name": "CHESAPEA",
+  "totals": {
+    "expected_subtotal": 268.0,
+    "cost": 226.54,
+    "gm_percent": "15.5%",
+    "tax": 16.08,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 284.08,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

@@ -1,0 +1,45 @@
+{
+  "invoice_number": "818434",
+  "invoice_date": "05/09/25",
+  "term_code": "14",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "759222",
+  "customer_code": "1207",
+  "customer_name": "WHITING",
+  "totals": {
+    "expected_subtotal": 158.0,
+    "cost": 98.36,
+    "gm_percent": "37.7%",
+    "tax": 9.48,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 167.48,
+    "calculated_subtotal": 158.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "SC300",
+      "Description": "300# SWEEPING COMPOU",
+      "units": 2.0,
+      "UM": "EA",
+      "PRICE": 79.0,
+      "PRICE_UM": "EA",
+      "COST": 49.18,
+      "COST_UM": "EA",
+      "extension": 158.0,
+      "gm%": "37.7",
+      "CLS": "752",
+      "T": "Y",
+      "M": "N",
+      "I": "N",
+      "R": "000",
+      "GL": "%",
+      "COMM%": "01",
+      "SW": ""
+    }
+  ]
+}

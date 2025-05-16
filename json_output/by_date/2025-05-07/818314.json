@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818314",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JS",
+  "pick_ticket": "759134",
+  "customer_code": "1782",
+  "customer_name": "CYNERGY",
+  "totals": {
+    "expected_subtotal": 1029.94,
+    "cost": 812.04,
+    "gm_percent": "21.2%",
+    "tax": 61.8,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 1091.74,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

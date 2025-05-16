@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818006",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "HB",
+  "pick_ticket": "758818",
+  "customer_code": "129ASI",
+  "customer_name": "COUSER S",
+  "totals": {
+    "expected_subtotal": 5822.4,
+    "cost": 4844.88,
+    "gm_percent": "16.8%",
+    "tax": 0.0,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 5822.4,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

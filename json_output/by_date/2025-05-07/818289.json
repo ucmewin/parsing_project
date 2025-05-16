@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818289",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "HB",
+  "pick_ticket": "759098",
+  "customer_code": "1712",
+  "customer_name": "CITIROOF",
+  "totals": {
+    "expected_subtotal": 852.81,
+    "cost": 607.17,
+    "gm_percent": "28.8%",
+    "tax": 51.17,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 903.98,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

@@ -1,0 +1,23 @@
+{
+  "invoice_number": "817876",
+  "invoice_date": "05/07/25",
+  "term_code": "8",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "758363",
+  "customer_code": "439",
+  "customer_name": "PEI ENGI",
+  "totals": {
+    "expected_subtotal": 646.0,
+    "cost": 472.4,
+    "gm_percent": "26.9%",
+    "tax": 38.76,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 684.76,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818084",
+  "invoice_date": "05/08/25",
+  "term_code": "8",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "MS",
+  "pick_ticket": "758891",
+  "customer_code": "200MS",
+  "customer_name": "CASH CUS",
+  "totals": {
+    "expected_subtotal": 400.75,
+    "cost": 279.23,
+    "gm_percent": "30.3%",
+    "tax": 24.05,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 424.8,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

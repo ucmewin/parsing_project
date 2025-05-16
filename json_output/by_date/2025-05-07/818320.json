@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818320",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "HB",
+  "pick_ticket": "759147",
+  "customer_code": "459",
+  "customer_name": "VISION C",
+  "totals": {
+    "expected_subtotal": 400.64,
+    "cost": 262.97,
+    "gm_percent": "34.4%",
+    "tax": 24.04,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 424.68,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

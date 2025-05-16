@@ -1,0 +1,23 @@
+{
+  "invoice_number": "817968",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JV",
+  "pick_ticket": "758708",
+  "customer_code": "859",
+  "customer_name": "T&B ELEC",
+  "totals": {
+    "expected_subtotal": 2277.31,
+    "cost": 1905.31,
+    "gm_percent": "16.3%",
+    "tax": 136.64,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 2413.95,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

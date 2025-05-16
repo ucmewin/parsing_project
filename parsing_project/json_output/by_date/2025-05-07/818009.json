@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818009",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "HW",
+  "pick_ticket": "758825",
+  "customer_code": "17",
+  "customer_name": "CLARK CO",
+  "totals": {
+    "expected_subtotal": 399.9,
+    "cost": 310.0,
+    "gm_percent": "22.5%",
+    "tax": 23.99,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 423.89,
+    "calculated_subtotal": 399.9,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "SN-04150-BLU-FR",
+      "Description": "4' X 150' SAFETY NET",
+      "units": 10.0,
+      "UM": "EA",
+      "PRICE": 39.99,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 31.0,
+      "COST_UM": "EA",
+      "extension": 399.9,
+      "gm%": "22.5",
+      "CLS": "500",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": ".0",
+      "SW": "01"
+    }
+  ]
+}

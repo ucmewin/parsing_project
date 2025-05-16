@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818010",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JA",
+  "pick_ticket": "758829",
+  "customer_code": "342",
+  "customer_name": "CONTRACT",
+  "totals": {
+    "expected_subtotal": 543.06,
+    "cost": 349.01,
+    "gm_percent": "35.7%",
+    "tax": 32.58,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 575.64,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

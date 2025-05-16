@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818024",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "RO",
+  "pick_ticket": "758853",
+  "customer_code": "795",
+  "customer_name": "OSPREY C",
+  "totals": {
+    "expected_subtotal": 1032.35,
+    "cost": 678.03,
+    "gm_percent": "34.3%",
+    "tax": 61.94,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 1094.29,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

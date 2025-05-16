@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818111",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "MS",
+  "pick_ticket": "756362",
+  "customer_code": "826",
+  "customer_name": "JPG PLUM",
+  "totals": {
+    "expected_subtotal": 269.0,
+    "cost": 237.5,
+    "gm_percent": "11.7%",
+    "tax": 16.14,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 285.14,
+    "calculated_subtotal": 269.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "48-59-1817",
+      "Description": "M18 SIX BAY DAISY CH",
+      "units": 1.0,
+      "UM": "EA",
+      "PRICE": 269.0,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 237.5,
+      "COST_UM": "EA",
+      "extension": 269.0,
+      "gm%": "11.7",
+      "CLS": "851",
+      "T": "Y",
+      "M": "N",
+      "I": "T",
+      "R": "",
+      "GL": "000",
+      "COMM%": "",
+      "SW": "01"
+    }
+  ]
+}

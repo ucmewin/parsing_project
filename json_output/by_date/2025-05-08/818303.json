@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818303",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JS",
+  "pick_ticket": "759114",
+  "customer_code": "515",
+  "customer_name": "ROSENDIN",
+  "totals": {
+    "expected_subtotal": 36.0,
+    "cost": 22.92,
+    "gm_percent": "36.3%",
+    "tax": 2.16,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 38.16,
+    "calculated_subtotal": 36.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "C1303",
+      "Description": "CORON BLUE SPRAY PAI",
+      "units": 6.0,
+      "UM": "EA",
+      "PRICE": 6.0,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 3.82,
+      "COST_UM": "EA",
+      "extension": 36.0,
+      "gm%": "36.3",
+      "CLS": "750",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": ".0",
+      "SW": "01"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818471",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "RO",
+  "pick_ticket": "759281",
+  "customer_code": "112",
+  "customer_name": "COMMERCI",
+  "totals": {
+    "expected_subtotal": 828.91,
+    "cost": 555.5,
+    "gm_percent": "33.0%",
+    "tax": 49.73,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 878.64,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

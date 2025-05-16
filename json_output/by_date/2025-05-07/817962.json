@@ -1,0 +1,23 @@
+{
+  "invoice_number": "817962",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "758659",
+  "customer_code": "551",
+  "customer_name": "CAPITAL",
+  "totals": {
+    "expected_subtotal": 19.85,
+    "cost": 8.22,
+    "gm_percent": "58.6%",
+    "tax": 0.0,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 19.85,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

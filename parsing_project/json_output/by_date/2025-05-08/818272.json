@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818272",
+  "invoice_date": "05/08/25",
+  "term_code": "20",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JV",
+  "pick_ticket": "759072",
+  "customer_code": "255",
+  "customer_name": "THE SEVE",
+  "totals": {
+    "expected_subtotal": 104.95,
+    "cost": 70.52,
+    "gm_percent": "32.8%",
+    "tax": 6.3,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 111.25,
+    "calculated_subtotal": 104.95,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "FS811-6",
+      "Description": "6' CROSS ARM STRAP",
+      "units": 5.0,
+      "UM": "EA",
+      "PRICE": 20.99,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 14.103,
+      "COST_UM": "EA",
+      "extension": 104.95,
+      "gm%": "32.8",
+      "CLS": "510",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": ".0",
+      "SW": "01"
+    }
+  ]
+}

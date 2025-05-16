@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818370",
+  "invoice_date": "05/09/25",
+  "term_code": "14",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "758409",
+  "customer_code": "1207",
+  "customer_name": "WHITING",
+  "totals": {
+    "expected_subtotal": 199.0,
+    "cost": 135.99,
+    "gm_percent": "31.7%",
+    "tax": 11.94,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 210.94,
+    "calculated_subtotal": 199.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "202491",
+      "Description": "UTILITY SINK W/FAUCE",
+      "units": 1.0,
+      "UM": "EA",
+      "PRICE": 199.0,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 135.99,
+      "COST_UM": "EA",
+      "extension": 199.0,
+      "gm%": "31.7",
+      "CLS": "752",
+      "T": "Y",
+      "M": "N",
+      "I": "T",
+      "R": "",
+      "GL": "000",
+      "COMM%": "",
+      "SW": "01"
+    }
+  ]
+}

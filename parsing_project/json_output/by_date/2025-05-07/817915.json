@@ -1,0 +1,46 @@
+{
+  "invoice_number": "817915",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JA",
+  "pick_ticket": "757435",
+  "customer_code": "1757",
+  "customer_name": "L.R. WIL",
+  "totals": {
+    "expected_subtotal": 580.0,
+    "cost": 405.6,
+    "gm_percent": "30.1%",
+    "tax": 34.8,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 614.8,
+    "calculated_subtotal": 580.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "DWA8031",
+      "Description": "14\"X20MM METAL WHEEL",
+      "units": 80.0,
+      "UM": "EA",
+      "PRICE": 7.25,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 5.07,
+      "COST_UM": "EA",
+      "extension": 580.0,
+      "gm%": "30.1",
+      "CLS": "832",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": ".0",
+      "SW": "01"
+    }
+  ]
+}

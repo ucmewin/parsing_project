@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818047",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JS",
+  "pick_ticket": "758902",
+  "customer_code": "1525",
+  "customer_name": "FIDELITY",
+  "totals": {
+    "expected_subtotal": 781.2,
+    "cost": 479.32,
+    "gm_percent": "38.6%",
+    "tax": 46.87,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 828.07,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

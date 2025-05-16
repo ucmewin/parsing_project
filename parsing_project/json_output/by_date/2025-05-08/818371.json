@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818371",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "HW",
+  "pick_ticket": "758457",
+  "customer_code": "17",
+  "customer_name": "CLARK CO",
+  "totals": {
+    "expected_subtotal": 1038.0,
+    "cost": 984.3,
+    "gm_percent": "5.2%",
+    "tax": 62.28,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 1100.28,
+    "calculated_subtotal": 1038.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "2911-21",
+      "Description": "M18 8' CONCRETE PENC",
+      "units": 2.0,
+      "UM": "EA",
+      "PRICE": 519.0,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 492.15,
+      "COST_UM": "EA",
+      "extension": 1038.0,
+      "gm%": "5.2",
+      "CLS": "850",
+      "T": "Y",
+      "M": "N",
+      "I": "T",
+      "R": "",
+      "GL": "000",
+      "COMM%": ".0",
+      "SW": "01"
+    }
+  ]
+}

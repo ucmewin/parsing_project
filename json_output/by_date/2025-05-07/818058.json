@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818058",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "J2V",
+  "pick_ticket": "758954",
+  "customer_code": "1099",
+  "customer_name": "SNYDER E",
+  "totals": {
+    "expected_subtotal": 357.25,
+    "cost": 305.57,
+    "gm_percent": "14.5%",
+    "tax": 21.44,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 378.69,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

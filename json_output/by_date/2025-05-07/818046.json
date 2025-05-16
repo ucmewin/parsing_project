@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818046",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JS",
+  "pick_ticket": "758901",
+  "customer_code": "1505",
+  "customer_name": "DENVER-E",
+  "totals": {
+    "expected_subtotal": 376.2,
+    "cost": 254.96,
+    "gm_percent": "32.2%",
+    "tax": 22.57,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 398.77,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

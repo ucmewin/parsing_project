@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818166",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "J2V",
+  "pick_ticket": "758721",
+  "customer_code": "824",
+  "customer_name": "PRO-AIR",
+  "totals": {
+    "expected_subtotal": 618.75,
+    "cost": 383.1,
+    "gm_percent": "38.1%",
+    "tax": 37.13,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 655.88,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

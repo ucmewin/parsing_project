@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818164",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JV",
+  "pick_ticket": "758714",
+  "customer_code": "1653",
+  "customer_name": "VARCO MA",
+  "totals": {
+    "expected_subtotal": 86.0,
+    "cost": 64.6,
+    "gm_percent": "24.9%",
+    "tax": 5.16,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 91.16,
+    "calculated_subtotal": 86.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "U67021.025.0075",
+      "Description": "1/4X 3/4 F BOLT 50PK",
+      "units": 4.0,
+      "UM": "PK",
+      "PRICE": 21.5,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "PK",
+      "COST": 16.15,
+      "COST_UM": "PK",
+      "extension": 86.0,
+      "gm%": "24.9",
+      "CLS": "705",
+      "T": "Y",
+      "M": "N",
+      "I": "T",
+      "R": "",
+      "GL": "000",
+      "COMM%": "",
+      "SW": "01"
+    }
+  ]
+}

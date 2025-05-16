@@ -1,0 +1,23 @@
+{
+  "invoice_number": "817985",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "758767",
+  "customer_code": "1766",
+  "customer_name": "W.E. BOW",
+  "totals": {
+    "expected_subtotal": 15.0,
+    "cost": 9.3,
+    "gm_percent": "38.0%",
+    "tax": 0.9,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 15.9,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

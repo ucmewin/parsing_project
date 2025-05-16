@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818389",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JS",
+  "pick_ticket": "758995",
+  "customer_code": "1437",
+  "customer_name": "GUARDRAI",
+  "totals": {
+    "expected_subtotal": 750.0,
+    "cost": 505.8,
+    "gm_percent": "32.6%",
+    "tax": 45.0,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 795.0,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818234",
+  "invoice_date": "05/08/25",
+  "term_code": "14",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "759000",
+  "customer_code": "1207",
+  "customer_name": "WHITING",
+  "totals": {
+    "expected_subtotal": 674.4,
+    "cost": 596.7,
+    "gm_percent": "11.5%",
+    "tax": 40.46,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 714.86,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

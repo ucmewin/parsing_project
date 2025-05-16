@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818056",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "RO",
+  "pick_ticket": "758952",
+  "customer_code": "1539",
+  "customer_name": "C.A. LIN",
+  "totals": {
+    "expected_subtotal": 511.5,
+    "cost": 300.15,
+    "gm_percent": "41.3%",
+    "tax": 30.69,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 542.19,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

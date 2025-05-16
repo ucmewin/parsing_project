@@ -1,0 +1,23 @@
+{
+  "invoice_number": "817859",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "RO",
+  "pick_ticket": "758863",
+  "customer_code": "1204",
+  "customer_name": "USI CARR",
+  "totals": {
+    "expected_subtotal": 1050.0,
+    "cost": 593.4,
+    "gm_percent": "43.5%",
+    "tax": 63.0,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 1113.0,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

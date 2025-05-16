@@ -1,0 +1,46 @@
+{
+  "invoice_number": "817918",
+  "invoice_date": "05/07/25",
+  "term_code": "20",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JV",
+  "pick_ticket": "757779",
+  "customer_code": "255",
+  "customer_name": "THE SEVE",
+  "totals": {
+    "expected_subtotal": 1807.0,
+    "cost": 1418.04,
+    "gm_percent": "21.5%",
+    "tax": 108.42,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 1915.42,
+    "calculated_subtotal": 1807.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 2,
+      "ITEM": "R430006",
+      "Description": "6' WEB RETRACTABLE L",
+      "units": 13.0,
+      "UM": "EA",
+      "PRICE": 139.0,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 109.08,
+      "COST_UM": "EA",
+      "extension": 1807.0,
+      "gm%": "21.5",
+      "CLS": "510",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": "",
+      "SW": "01"
+    }
+  ]
+}

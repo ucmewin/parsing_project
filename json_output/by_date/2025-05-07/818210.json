@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818210",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JA",
+  "pick_ticket": "758959",
+  "customer_code": "710",
+  "customer_name": "MCLEAN C",
+  "totals": {
+    "expected_subtotal": 145.9,
+    "cost": 101.64,
+    "gm_percent": "30.3%",
+    "tax": 8.75,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 154.65,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

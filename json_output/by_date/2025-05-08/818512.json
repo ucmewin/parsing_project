@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818512",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "HB",
+  "pick_ticket": "759364",
+  "customer_code": "784",
+  "customer_name": "ATLANTIC",
+  "totals": {
+    "expected_subtotal": 708.54,
+    "cost": 363.25,
+    "gm_percent": "48.7%",
+    "tax": 0.0,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 708.54,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

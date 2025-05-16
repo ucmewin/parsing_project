@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818343",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "HB",
+  "pick_ticket": "759266",
+  "customer_code": "139",
+  "customer_name": "AYER COR",
+  "totals": {
+    "expected_subtotal": 488.9,
+    "cost": 345.3,
+    "gm_percent": "29.4%",
+    "tax": 29.33,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 518.23,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

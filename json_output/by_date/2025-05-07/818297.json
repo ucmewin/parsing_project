@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818297",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "MS",
+  "pick_ticket": "759108",
+  "customer_code": "469",
+  "customer_name": "EMJAY CO",
+  "totals": {
+    "expected_subtotal": 126.0,
+    "cost": 90.66,
+    "gm_percent": "28.0%",
+    "tax": 7.56,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 133.56,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

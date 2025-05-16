@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818144",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "758172",
+  "customer_code": "1422",
+  "customer_name": "POTOMAC",
+  "totals": {
+    "expected_subtotal": 47.25,
+    "cost": 39.68,
+    "gm_percent": "16.0%",
+    "tax": 2.84,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 50.09,
+    "calculated_subtotal": 47.25,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "00850R",
+      "Description": "8\"-10/14T LENOX SAWZ",
+      "units": 25.0,
+      "UM": "EA",
+      "PRICE": 1.89,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 1.587,
+      "COST_UM": "EA",
+      "extension": 47.25,
+      "gm%": "16.0",
+      "CLS": "402",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": "",
+      "SW": "01"
+    }
+  ]
+}

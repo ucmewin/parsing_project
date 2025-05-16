@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818477",
+  "invoice_date": "05/09/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "HW",
+  "pick_ticket": "759294",
+  "customer_code": "17",
+  "customer_name": "CLARK CO",
+  "totals": {
+    "expected_subtotal": 118.0,
+    "cost": 75.9,
+    "gm_percent": "35.7%",
+    "tax": 7.08,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 125.08,
+    "calculated_subtotal": 118.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "48-01-7782",
+      "Description": "6\"-14TPI MILW TORCH",
+      "units": 50.0,
+      "UM": "EA",
+      "PRICE": 2.36,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 1.518,
+      "COST_UM": "EA",
+      "extension": 118.0,
+      "gm%": "35.7",
+      "CLS": "852",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": ".0",
+      "SW": "01"
+    }
+  ]
+}

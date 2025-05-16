@@ -1,0 +1,23 @@
+{
+  "invoice_number": "817895",
+  "invoice_date": "05/07/25",
+  "term_code": "15",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "756145",
+  "customer_code": "367",
+  "customer_name": "ACM SERV",
+  "totals": {
+    "expected_subtotal": 63.0,
+    "cost": 36.01,
+    "gm_percent": "42.8%",
+    "tax": 3.78,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 66.78,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

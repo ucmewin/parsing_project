@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818181",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "HW",
+  "pick_ticket": "758868",
+  "customer_code": "17",
+  "customer_name": "CLARK CO",
+  "totals": {
+    "expected_subtotal": 24.9,
+    "cost": 20.38,
+    "gm_percent": "18.2%",
+    "tax": 1.49,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 26.39,
+    "calculated_subtotal": 24.9,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "55-0099-1",
+      "Description": "RETRACTABLE KNIFE",
+      "units": 10.0,
+      "UM": "EA",
+      "PRICE": 2.49,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 2.038,
+      "COST_UM": "EA",
+      "extension": 24.9,
+      "gm%": "18.2",
+      "CLS": "404",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": ".0",
+      "SW": "01"
+    }
+  ]
+}

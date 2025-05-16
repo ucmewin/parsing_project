@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818422",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "759186",
+  "customer_code": "1758",
+  "customer_name": "G&M SERV",
+  "totals": {
+    "expected_subtotal": 668.01,
+    "cost": 480.83,
+    "gm_percent": "28.0%",
+    "tax": 40.08,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 708.09,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

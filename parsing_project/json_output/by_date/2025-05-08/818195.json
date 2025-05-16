@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818195",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "J2V",
+  "pick_ticket": "758923",
+  "customer_code": "683",
+  "customer_name": "SPINIELL",
+  "totals": {
+    "expected_subtotal": 869.0,
+    "cost": 757.0,
+    "gm_percent": "12.9%",
+    "tax": 52.14,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 921.14,
+    "calculated_subtotal": 869.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "RH850VC",
+      "Description": "1 7/8\" SDS-MAX ROTAR",
+      "units": 1.0,
+      "UM": "EA",
+      "PRICE": 869.0,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 757.0,
+      "COST_UM": "EA",
+      "extension": 869.0,
+      "gm%": "12.9",
+      "CLS": "840",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": "",
+      "SW": "01"
+    }
+  ]
+}

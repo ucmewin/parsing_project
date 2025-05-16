@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818327",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "RO",
+  "pick_ticket": "759181",
+  "customer_code": "1539",
+  "customer_name": "C.A. LIN",
+  "totals": {
+    "expected_subtotal": 23.0,
+    "cost": 12.0,
+    "gm_percent": "47.8%",
+    "tax": 1.38,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 24.38,
+    "calculated_subtotal": 23.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "496-BL",
+      "Description": "BLACK KEIL (DZ)",
+      "units": 2.0,
+      "UM": "DZ",
+      "PRICE": 11.5,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "DZ",
+      "COST": 6.0,
+      "COST_UM": "DZ",
+      "extension": 23.0,
+      "gm%": "47.8",
+      "CLS": "150",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": ".0",
+      "SW": "01"
+    }
+  ]
+}

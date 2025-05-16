@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818286",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JS",
+  "pick_ticket": "759095",
+  "customer_code": "1482",
+  "customer_name": "RESTORAT",
+  "totals": {
+    "expected_subtotal": 76.0,
+    "cost": 42.06,
+    "gm_percent": "44.7%",
+    "tax": 4.56,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 80.56,
+    "calculated_subtotal": 76.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "48-20-3930",
+      "Description": "3/4\"X8\"X13\"MX4 SDS M",
+      "units": 2.0,
+      "UM": "EA",
+      "PRICE": 38.0,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 21.03,
+      "COST_UM": "EA",
+      "extension": 76.0,
+      "gm%": "44.7",
+      "CLS": "852",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": ".0",
+      "SW": "01"
+    }
+  ]
+}

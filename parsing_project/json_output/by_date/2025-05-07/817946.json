@@ -1,0 +1,46 @@
+{
+  "invoice_number": "817946",
+  "invoice_date": "05/07/25",
+  "term_code": "20",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JV",
+  "pick_ticket": "758434",
+  "customer_code": "255",
+  "customer_name": "THE SEVE",
+  "totals": {
+    "expected_subtotal": 880.0,
+    "cost": 754.8,
+    "gm_percent": "14.2%",
+    "tax": 52.8,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 932.8,
+    "calculated_subtotal": 880.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "PD6206",
+      "Description": "8' FIBER PODIUM LADD",
+      "units": 4.0,
+      "UM": "EA",
+      "PRICE": 220.0,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 188.7,
+      "COST_UM": "EA",
+      "extension": 880.0,
+      "gm%": "14.2",
+      "CLS": "730",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": "",
+      "SW": "01"
+    }
+  ]
+}

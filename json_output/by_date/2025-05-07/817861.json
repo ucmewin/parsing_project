@@ -1,0 +1,23 @@
+{
+  "invoice_number": "817861",
+  "invoice_date": "05/07/25",
+  "term_code": "8",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CM",
+  "pick_ticket": "757135",
+  "customer_code": "200",
+  "customer_name": "CASH SAL",
+  "totals": {
+    "expected_subtotal": 49.74,
+    "cost": 19.33,
+    "gm_percent": "61.1%",
+    "tax": 0.73,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 50.47,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

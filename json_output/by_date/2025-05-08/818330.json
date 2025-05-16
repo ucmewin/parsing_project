@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818330",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "J2V",
+  "pick_ticket": "759190",
+  "customer_code": "824",
+  "customer_name": "PRO-AIR",
+  "totals": {
+    "expected_subtotal": 144.75,
+    "cost": 106.82,
+    "gm_percent": "26.2%",
+    "tax": 8.69,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 153.44,
+    "calculated_subtotal": 144.75,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "10733",
+      "Description": "SUSPENSION TRAUMA ST",
+      "units": 5.0,
+      "UM": "EA",
+      "PRICE": 28.95,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 21.364,
+      "COST_UM": "EA",
+      "extension": 144.75,
+      "gm%": "26.2",
+      "CLS": "510",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": "",
+      "SW": "01"
+    }
+  ]
+}

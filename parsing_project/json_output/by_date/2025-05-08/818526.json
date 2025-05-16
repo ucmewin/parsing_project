@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818526",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "759406",
+  "customer_code": "193",
+  "customer_name": "EAST COA",
+  "totals": {
+    "expected_subtotal": 45.0,
+    "cost": 31.25,
+    "gm_percent": "30.6%",
+    "tax": 2.7,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 47.7,
+    "calculated_subtotal": 45.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "R3354-25T",
+      "Description": "WHITE T-SHIRT RAGS-3",
+      "units": 1.0,
+      "UM": "BX",
+      "PRICE": 45.0,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "BX",
+      "COST": 31.25,
+      "COST_UM": "BX",
+      "extension": 45.0,
+      "gm%": "30.6",
+      "CLS": "752",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": "",
+      "SW": "01"
+    }
+  ]
+}

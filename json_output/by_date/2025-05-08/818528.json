@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818528",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JS",
+  "pick_ticket": "759422",
+  "customer_code": "1332",
+  "customer_name": "CARROLL",
+  "totals": {
+    "expected_subtotal": 3113.2,
+    "cost": 2316.06,
+    "gm_percent": "25.6%",
+    "tax": 186.79,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 3299.99,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

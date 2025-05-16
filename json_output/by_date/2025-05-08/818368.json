@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818368",
+  "invoice_date": "05/08/25",
+  "term_code": "11",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JV",
+  "pick_ticket": "758307",
+  "customer_code": "55",
+  "customer_name": "DYNALECT",
+  "totals": {
+    "expected_subtotal": 240.5,
+    "cost": 163.54,
+    "gm_percent": "32.0%",
+    "tax": 14.43,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 254.93,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

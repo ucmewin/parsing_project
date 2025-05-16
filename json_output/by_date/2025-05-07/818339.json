@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818339",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "RO",
+  "pick_ticket": "759217",
+  "customer_code": "122LC",
+  "customer_name": "CONCRETE",
+  "totals": {
+    "expected_subtotal": 119.0,
+    "cost": 88.2,
+    "gm_percent": "25.9%",
+    "tax": 7.14,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 126.14,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

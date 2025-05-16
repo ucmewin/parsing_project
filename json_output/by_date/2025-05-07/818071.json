@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818071",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JA",
+  "pick_ticket": "759025",
+  "customer_code": "1273SST",
+  "customer_name": "PULLMAN",
+  "totals": {
+    "expected_subtotal": 1333.7,
+    "cost": 1062.2,
+    "gm_percent": "20.4%",
+    "tax": 88.36,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 1422.06,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

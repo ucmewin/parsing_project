@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818077",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "HB",
+  "pick_ticket": "759058",
+  "customer_code": "843",
+  "customer_name": "TOTAL AC",
+  "totals": {
+    "expected_subtotal": 796.28,
+    "cost": 457.26,
+    "gm_percent": "42.6%",
+    "tax": 47.78,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 844.06,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

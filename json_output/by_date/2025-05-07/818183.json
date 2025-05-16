@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818183",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JS",
+  "pick_ticket": "758880",
+  "customer_code": "1604",
+  "customer_name": "WINDSOR",
+  "totals": {
+    "expected_subtotal": 198.85,
+    "cost": 123.55,
+    "gm_percent": "37.9%",
+    "tax": 11.93,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 210.78,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

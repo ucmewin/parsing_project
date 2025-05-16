@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818377",
+  "invoice_date": "05/08/25",
+  "term_code": "1",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "RO",
+  "pick_ticket": "758594",
+  "customer_code": "1110",
+  "customer_name": "CULBERTS",
+  "totals": {
+    "expected_subtotal": 406.8,
+    "cost": 292.55,
+    "gm_percent": "28.1%",
+    "tax": 24.41,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 431.21,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

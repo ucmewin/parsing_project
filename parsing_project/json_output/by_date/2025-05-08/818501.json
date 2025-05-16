@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818501",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "759331",
+  "customer_code": "483",
+  "customer_name": "PREMIER",
+  "totals": {
+    "expected_subtotal": 29.5,
+    "cost": 17.0,
+    "gm_percent": "42.4%",
+    "tax": 1.77,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 31.27,
+    "calculated_subtotal": 29.5,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "99700",
+      "Description": "SIDE SHIELD-PAIR(FLA",
+      "units": 50.0,
+      "UM": "PR",
+      "PRICE": 0.59,
+      "PRICE_OVERRIDE": false,
+      "PRICE_UM": "PR",
+      "COST": 0.34,
+      "COST_UM": "PR",
+      "extension": 29.5,
+      "gm%": "42.4",
+      "CLS": "502",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": "",
+      "SW": "01"
+    }
+  ]
+}

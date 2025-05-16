@@ -1,0 +1,45 @@
+{
+  "invoice_number": "818356",
+  "invoice_date": "05/08/25",
+  "term_code": "1",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "RO",
+  "pick_ticket": "757297",
+  "customer_code": "1110",
+  "customer_name": "CULBERTS",
+  "totals": {
+    "expected_subtotal": 58.0,
+    "cost": 24.95,
+    "gm_percent": "57.0%",
+    "tax": 3.48,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 61.48,
+    "calculated_subtotal": 58.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 14,
+      "ITEM": "AA-610L",
+      "Description": "3/16\"X5/8\" LARGE FLA",
+      "units": 2.5,
+      "UM": "C",
+      "PRICE": 23.2,
+      "PRICE_UM": "C",
+      "COST": 9.98,
+      "COST_UM": "C",
+      "extension": 58.0,
+      "gm%": "57.0",
+      "CLS": "303",
+      "T": "Y",
+      "M": "N",
+      "I": "N",
+      "R": "000",
+      "GL": ".00%",
+      "COMM%": "01",
+      "SW": ""
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "invoice_number": "817964",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JS",
+  "pick_ticket": "758695",
+  "customer_code": "515",
+  "customer_name": "ROSENDIN",
+  "totals": {
+    "expected_subtotal": 535.0,
+    "cost": 347.78,
+    "gm_percent": "35.0%",
+    "tax": 32.1,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 567.1,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

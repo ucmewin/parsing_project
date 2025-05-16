@@ -1,0 +1,23 @@
+{
+  "invoice_number": "817959",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "RPS",
+  "pick_ticket": "758642",
+  "customer_code": "93",
+  "customer_name": "ALTIMATE",
+  "totals": {
+    "expected_subtotal": 356.44,
+    "cost": 199.72,
+    "gm_percent": "44.0%",
+    "tax": 12.39,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 368.83,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

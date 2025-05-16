@@ -1,0 +1,23 @@
+{
+  "invoice_number": "817867",
+  "invoice_date": "05/07/25",
+  "term_code": "8",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "757931",
+  "customer_code": "718",
+  "customer_name": "RENOVATI",
+  "totals": {
+    "expected_subtotal": 806.4,
+    "cost": 482.16,
+    "gm_percent": "40.2%",
+    "tax": 48.38,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 854.78,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

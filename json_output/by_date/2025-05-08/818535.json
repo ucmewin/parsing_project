@@ -1,0 +1,45 @@
+{
+  "invoice_number": "818535",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "MS",
+  "pick_ticket": "759451",
+  "customer_code": "830",
+  "customer_name": "THE DURA",
+  "totals": {
+    "expected_subtotal": 139.9,
+    "cost": 95.22,
+    "gm_percent": "31.9%",
+    "tax": 8.39,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 148.29,
+    "calculated_subtotal": 128.0,
+    "match": false
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "BK110AF",
+      "Description": "BEARKAT SAFETY GLASS",
+      "units": 64.0,
+      "UM": "EA",
+      "PRICE": 2.0,
+      "PRICE_UM": "EA",
+      "COST": 1.369,
+      "COST_UM": "EA",
+      "extension": 128.0,
+      "gm%": "31.5",
+      "CLS": "502",
+      "T": "Y",
+      "M": "N",
+      "I": "N",
+      "R": "000",
+      "GL": "%",
+      "COMM%": "01",
+      "SW": ""
+    }
+  ]
+}

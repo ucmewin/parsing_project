@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818506",
+  "invoice_date": "05/09/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "HB",
+  "pick_ticket": "759348",
+  "customer_code": "144",
+  "customer_name": "JOHNSTON",
+  "totals": {
+    "expected_subtotal": 201.98,
+    "cost": 133.13,
+    "gm_percent": "34.1%",
+    "tax": 12.12,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 214.1,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818269",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "759057",
+  "customer_code": "1766VA",
+  "customer_name": "W.E. BOW",
+  "totals": {
+    "expected_subtotal": 11.58,
+    "cost": 8.8,
+    "gm_percent": "24.0%",
+    "tax": 0.69,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 12.27,
+    "calculated_subtotal": 11.58,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "6595",
+      "Description": "5 GALLON PLASTIC BUC",
+      "units": 2.0,
+      "UM": "EA",
+      "PRICE": 5.79,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 4.4,
+      "COST_UM": "EA",
+      "extension": 11.58,
+      "gm%": "24.0",
+      "CLS": "752",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": ".0",
+      "SW": "01"
+    }
+  ]
+}

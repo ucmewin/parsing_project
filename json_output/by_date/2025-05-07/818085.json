@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818085",
+  "invoice_date": "05/08/25",
+  "term_code": "8",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "MS",
+  "pick_ticket": "759347",
+  "customer_code": "892",
+  "customer_name": "BLACKWAT",
+  "totals": {
+    "expected_subtotal": 508.9,
+    "cost": 441.93,
+    "gm_percent": "13.2%",
+    "tax": 30.53,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 539.43,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

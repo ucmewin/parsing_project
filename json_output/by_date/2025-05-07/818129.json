@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818129",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "SER",
+  "pick_ticket": "757789",
+  "customer_code": "1168",
+  "customer_name": "DGS CONS",
+  "totals": {
+    "expected_subtotal": 179.64,
+    "cost": 116.56,
+    "gm_percent": "35.1%",
+    "tax": 10.78,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 190.42,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

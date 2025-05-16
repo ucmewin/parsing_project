@@ -1,0 +1,46 @@
+{
+  "invoice_number": "817934",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "758284",
+  "customer_code": "1411",
+  "customer_name": "WAGNER R",
+  "totals": {
+    "expected_subtotal": 288.0,
+    "cost": 225.0,
+    "gm_percent": "21.9%",
+    "tax": 17.28,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 305.28,
+    "calculated_subtotal": 288.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 3,
+      "ITEM": "R3355-25",
+      "Description": "WASH CLOTH RAGS-TERR",
+      "units": 6.0,
+      "UM": "BX",
+      "PRICE": 48.0,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "BX",
+      "COST": 37.5,
+      "COST_UM": "BX",
+      "extension": 288.0,
+      "gm%": "21.9",
+      "CLS": "752",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": ".0",
+      "SW": "01"
+    }
+  ]
+}

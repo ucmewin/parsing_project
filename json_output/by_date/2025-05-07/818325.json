@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818325",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "J2V",
+  "pick_ticket": "759165",
+  "customer_code": "649",
+  "customer_name": "MCGUIRE",
+  "totals": {
+    "expected_subtotal": 918.0,
+    "cost": 823.54,
+    "gm_percent": "10.3%",
+    "tax": 55.08,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 973.08,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

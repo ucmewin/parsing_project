@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818202",
+  "invoice_date": "05/08/25",
+  "term_code": "20",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JV",
+  "pick_ticket": "758938",
+  "customer_code": "255",
+  "customer_name": "THE SEVE",
+  "totals": {
+    "expected_subtotal": 188.35,
+    "cost": 153.68,
+    "gm_percent": "18.4%",
+    "tax": 11.3,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 199.65,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

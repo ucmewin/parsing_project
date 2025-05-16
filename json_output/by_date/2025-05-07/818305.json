@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818305",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JS",
+  "pick_ticket": "759118",
+  "customer_code": "1052-PA",
+  "customer_name": "BFPE INT",
+  "totals": {
+    "expected_subtotal": 2923.45,
+    "cost": 2439.17,
+    "gm_percent": "16.6%",
+    "tax": 175.41,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 3098.86,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818376",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JS",
+  "pick_ticket": "758591",
+  "customer_code": "1408",
+  "customer_name": "SESSA SH",
+  "totals": {
+    "expected_subtotal": 112.0,
+    "cost": 71.84,
+    "gm_percent": "35.9%",
+    "tax": 6.72,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 118.72,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

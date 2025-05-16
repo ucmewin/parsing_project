@@ -1,0 +1,45 @@
+{
+  "invoice_number": "818360",
+  "invoice_date": "05/09/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JA",
+  "pick_ticket": "757832",
+  "customer_code": "1272C",
+  "customer_name": "STRUCTUR",
+  "totals": {
+    "expected_subtotal": 1160.12,
+    "cost": 986.1,
+    "gm_percent": "15.0%",
+    "tax": 0.0,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 1160.12,
+    "calculated_subtotal": -751.78,
+    "match": false
+  },
+  "items": [
+    {
+      "ln#": 3,
+      "ITEM": "TRADE",
+      "Description": "TRADE IN DISCOUNT- F",
+      "units": -2.0,
+      "UM": "EA",
+      "PRICE": 375.89,
+      "PRICE_UM": "EA",
+      "COST": 288.78,
+      "COST_UM": "EA",
+      "extension": -751.78,
+      "gm%": "23.2",
+      "CLS": "TRA",
+      "T": "Y",
+      "M": "N",
+      "I": "N",
+      "R": "R",
+      "GL": "000",
+      "COMM%": "",
+      "SW": "01"
+    }
+  ]
+}

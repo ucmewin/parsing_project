@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818066",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "758997",
+  "customer_code": "798",
+  "customer_name": "ADJ SHEE",
+  "totals": {
+    "expected_subtotal": 78.14,
+    "cost": 48.72,
+    "gm_percent": "37.7%",
+    "tax": 4.69,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 82.83,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

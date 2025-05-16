@@ -1,0 +1,23 @@
+{
+  "invoice_number": "817933",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "J2V",
+  "pick_ticket": "758267",
+  "customer_code": "604",
+  "customer_name": "IRON FAB",
+  "totals": {
+    "expected_subtotal": 157.0,
+    "cost": 108.6,
+    "gm_percent": "30.8%",
+    "tax": 9.42,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 166.42,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

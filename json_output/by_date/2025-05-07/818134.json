@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818134",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "SER",
+  "pick_ticket": "758007",
+  "customer_code": "1482",
+  "customer_name": "RESTORAT",
+  "totals": {
+    "expected_subtotal": 406.5,
+    "cost": 258.09,
+    "gm_percent": "36.5%",
+    "tax": 24.39,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 430.89,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

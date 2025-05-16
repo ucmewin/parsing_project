@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818076",
+  "invoice_date": "05/07/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "759050",
+  "customer_code": "45",
+  "customer_name": "ARICA CO",
+  "totals": {
+    "expected_subtotal": 42.99,
+    "cost": 31.25,
+    "gm_percent": "27.3%",
+    "tax": 2.58,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 45.57,
+    "calculated_subtotal": 42.99,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "R3354-25T",
+      "Description": "WHITE T-SHIRT RAGS-3",
+      "units": 1.0,
+      "UM": "BX",
+      "PRICE": 42.99,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "BX",
+      "COST": 31.25,
+      "COST_UM": "BX",
+      "extension": 42.99,
+      "gm%": "27.3",
+      "CLS": "752",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": "",
+      "SW": "01"
+    }
+  ]
+}

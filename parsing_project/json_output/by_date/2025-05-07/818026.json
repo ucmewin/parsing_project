@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818026",
+  "invoice_date": "05/07/25",
+  "term_code": "11",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "JV",
+  "pick_ticket": "758856",
+  "customer_code": "55",
+  "customer_name": "DYNALECT",
+  "totals": {
+    "expected_subtotal": 2400.0,
+    "cost": 1814.4,
+    "gm_percent": "24.4%",
+    "tax": 144.0,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 2544.0,
+    "calculated_subtotal": 2400.0,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "SL1500D4B",
+      "Description": "HD SNAP-LOC GEN. BLA",
+      "units": 16.0,
+      "UM": "EA",
+      "PRICE": 150.0,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 113.4,
+      "COST_UM": "EA",
+      "extension": 2400.0,
+      "gm%": "24.4",
+      "CLS": "706",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": "",
+      "SW": "01"
+    }
+  ]
+}

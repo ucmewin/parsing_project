@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818357",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "RO",
+  "pick_ticket": "757300",
+  "customer_code": "1345",
+  "customer_name": "CAPITOL",
+  "totals": {
+    "expected_subtotal": 122.8,
+    "cost": 67.6,
+    "gm_percent": "45.0%",
+    "tax": 7.37,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 130.17,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

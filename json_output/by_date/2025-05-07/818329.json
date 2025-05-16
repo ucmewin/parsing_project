@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818329",
+  "invoice_date": "05/08/25",
+  "term_code": "1",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "J2V",
+  "pick_ticket": "759188",
+  "customer_code": "154",
+  "customer_name": "PIONEER",
+  "totals": {
+    "expected_subtotal": 1460.0,
+    "cost": 1072.35,
+    "gm_percent": "26.6%",
+    "tax": 87.6,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 1547.6,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

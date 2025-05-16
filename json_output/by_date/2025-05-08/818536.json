@@ -1,0 +1,23 @@
+{
+  "invoice_number": "818536",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "759470",
+  "customer_code": "206",
+  "customer_name": "FREEDOM",
+  "totals": {
+    "expected_subtotal": 553.8,
+    "cost": 428.46,
+    "gm_percent": "22.6%",
+    "tax": 33.23,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 587.03,
+    "calculated_subtotal": 0,
+    "match": false
+  },
+  "items": []
+}

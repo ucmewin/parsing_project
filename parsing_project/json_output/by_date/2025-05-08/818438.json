@@ -1,0 +1,46 @@
+{
+  "invoice_number": "818438",
+  "invoice_date": "05/08/25",
+  "term_code": "2",
+  "over_credit_limit": false,
+  "warehouse": "01",
+  "salesperson": "CA",
+  "pick_ticket": "759229",
+  "customer_code": "1766",
+  "customer_name": "W.E. BOW",
+  "totals": {
+    "expected_subtotal": 4.59,
+    "cost": 3.36,
+    "gm_percent": "26.8%",
+    "tax": 0.28,
+    "freight": 0.0,
+    "discount": 0.0,
+    "doc_total": 4.87,
+    "calculated_subtotal": 4.59,
+    "match": true
+  },
+  "items": [
+    {
+      "ln#": 1,
+      "ITEM": "107563C",
+      "Description": "WATER HOSE NOZZLE",
+      "units": 1.0,
+      "UM": "EA",
+      "PRICE": 4.59,
+      "PRICE_OVERRIDE": true,
+      "PRICE_UM": "EA",
+      "COST": 3.36,
+      "COST_UM": "EA",
+      "extension": 4.59,
+      "gm%": "26.8",
+      "CLS": "697",
+      "T": "Y",
+      "M": "N",
+      "I": "S",
+      "R": "",
+      "GL": "000",
+      "COMM%": ".0",
+      "SW": "01"
+    }
+  ]
+}
